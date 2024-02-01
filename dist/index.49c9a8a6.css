@@ -1,0 +1,11 @@
+*, :before, :after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: red;
+}
+
+/*# sourceMappingURL=index.49c9a8a6.css.map */
